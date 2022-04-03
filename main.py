@@ -42,7 +42,7 @@ TILTSPEED = 10
 FOCUS = 11
 ZOOM = 12
 SHUTTER = 13
-
+#LoX
 # When you change sth here. Change data.py
 class Projector(object):
     def __init__(self, data):
